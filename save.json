@@ -1,0 +1,71 @@
+{
+  "day": 0,
+  "planet": "mars",
+  "total_harvest": 0,
+  "resources": {
+    "water": 200,
+    "fertilizer": 100,
+    "energy": 500
+  },
+  "modules": [
+    {
+      "id": 1,
+      "area": 10,
+      "max_plants": 5,
+      "resources": {
+        "water": 50,
+        "fertilizer": 30,
+        "energy": 100
+      },
+      "plants": [
+        {
+          "name": "Томат",
+          "health": 100,
+          "age": 0.0,
+          "growth_days": 10,
+          "growth_modifier": 1.0,
+          "harvest": 0,
+          "planet": "mars",
+          "fertilizer_need": 1.0,
+          "good_days": 0
+        },
+        {
+          "name": "Томат",
+          "health": 100,
+          "age": 0.0,
+          "growth_days": 10,
+          "growth_modifier": 1.0,
+          "harvest": 0,
+          "planet": "mars",
+          "fertilizer_need": 1.0,
+          "good_days": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "area": 15,
+      "max_plants": 8,
+      "resources": {
+        "water": 50,
+        "fertilizer": 30,
+        "energy": 100
+      },
+      "plants": [
+        {
+          "name": "Томат",
+          "health": 100,
+          "age": 0.0,
+          "growth_days": 10,
+          "growth_modifier": 1.0,
+          "harvest": 0,
+          "planet": "mars",
+          "fertilizer_need": 1.0,
+          "good_days": 0
+        }
+      ]
+    }
+  ],
+  "history": [],
+  "resource_history": []
+}
